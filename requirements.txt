@@ -1,0 +1,21 @@
+# --- LLM / LangChain ---
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+openai
+
+# --- Core Validation ---
+pydantic
+
+# --- Environment Variables ---
+python-dotenv
+
+# --- UI ---
+streamlit
+
+# --- PDF Export ---
+reportlab
+
+# --- Database ---
+mysql-connector-python
